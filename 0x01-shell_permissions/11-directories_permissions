@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod +x (find /0x01-shell_permissions -type d)
+chmod +x (find ./ -type d)
