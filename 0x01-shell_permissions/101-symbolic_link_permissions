@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x hello
+chown vincent:staff _hello
