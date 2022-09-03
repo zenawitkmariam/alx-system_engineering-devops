@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x hello
+chown -R vincent:staff 0x01-shell_permissions
